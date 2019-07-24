@@ -10,6 +10,8 @@
 
 ### Reference
 1. [github.com/krasserm]
+2. [krasserm.github.io]
 
 
 [github.com/krasserm]: https://github.com/krasserm/bayesian-machine-learning
+[krasserm.github.io]: http://krasserm.github.io
