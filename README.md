@@ -1,4 +1,4 @@
-# bayesians-for-ml
+# bayesian-methods-for-ml
 
 
 - Theory and codes for Bayesian methods for machine learning
