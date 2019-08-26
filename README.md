@@ -8,7 +8,7 @@
 - Dependencies
   - Python 3.6+
   - R == 3.6.1
-  - Codes are heavily inspired by [github.com/krasserm][bookdown.org]
+  - Codes are heavily inspired by [github.com/krasserm], [bookdown.org]
 
 ### Reference
 1. [github.com/krasserm]
