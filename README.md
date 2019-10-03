@@ -5,6 +5,8 @@
   1. Gaussian Process
   2. Bayesian Optimization
   3. Laplace approximation (in R)
+  4. Variational Inference 
+  
 - Dependencies
   - Python 3.6+
   - R == 3.6.1
